@@ -24,7 +24,7 @@
 
 ### Задание 1
 
-![Скриншот яндекс метрики](ссылка на скриншот 1)`
+![Скриншот яндекс метрики](https://github.com/NikolayAntipov/hw-netology/blob/main/img/yandex.JPG)`
 
 
 
