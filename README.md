@@ -24,6 +24,8 @@
 
 ### Задание 1
 
+Создайте виртуальную машину в Yandex Compute Cloud и с помощью Yandex Monitoring создайте дашборд, на котором будет видно загрузку процессора.
+
 ![Скриншот яндекс метрики](https://github.com/NikolayAntipov/hw-netology/blob/main/img/yandex.JPG)`
 
 
