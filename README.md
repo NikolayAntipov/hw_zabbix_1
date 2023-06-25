@@ -6,14 +6,15 @@
 ### Задание 1
 
 Авторизация в админке
-![Админка](https://github.com/NikolayAntipov/hw-netology/blob/main/img/yandex.JPG)`
+![Админка](https://github.com/NikolayAntipov/hw_zabbix_1/blob/main/img/zabbix.JPG)`
+![Авторизовался](https://github.com/NikolayAntipov/hw_zabbix_1/blob/main/img/autorisation.JPG)`
 
 
 ### Задание 2
 
-![Скриншот раздела Configuration](https://github.com/NikolayAntipov/hw-netology/blob/main/img/yandex.JPG)`
-![Скриншот лога zabbix agent](https://github.com/NikolayAntipov/hw-netology/blob/main/img/yandex.JPG)`
-![Скриншот раздела Monitoring](https://github.com/NikolayAntipov/hw-netology/blob/main/img/yandex.JPG)`
+![Скриншот раздела Configuration](https://github.com/NikolayAntipov/hw_zabbix_1/blob/main/img/2%20agents.JPG)`
+![Скриншот лога zabbix agent]()`
+![Скриншот раздела Monitoring. Latest Data](https://github.com/NikolayAntipov/hw_zabbix_1/blob/main/img/Data%20from%20servers.JPG)`
 
 
 
