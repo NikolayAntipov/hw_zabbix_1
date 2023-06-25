@@ -6,6 +6,7 @@
 ### Задание 1
 
 Авторизация в админке
+
 ![Админка](https://github.com/NikolayAntipov/hw_zabbix_1/blob/main/img/zabbix.JPG)`
 
 Авторизовался
