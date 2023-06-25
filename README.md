@@ -19,6 +19,7 @@
 ![Скриншот раздела Configuration](https://github.com/NikolayAntipov/hw_zabbix_1/blob/main/img/2%20agents.JPG)`
 
 Скриншот лога zabbix agent
+
 ![Скриншот лога zabbix agent](https://github.com/NikolayAntipov/hw_zabbix_1/blob/main/img/zabbixagentlog.JPG)`
 
 Скриншот раздела Monitoring. Latest Data
